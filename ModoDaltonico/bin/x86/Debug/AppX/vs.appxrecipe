@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>CELTIC</Machine>
+    <WindowsUser>dea39_000</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>3dd7d584-02dd-443a-ac99-d5078d9d444d</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\dea39_000\documents\visual studio 2013\Projects\ModoDaltonico\ModoDaltonico\obj\x86\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>F496CF5E7D3632DC5C93C6157E7CB713C0B29B651DBF88A84C8CCDB0F0A76BA0</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>3dd7d584-02dd-443a-ac99-d5078d9d444d_1.0.0.0_x86__hctj9ptqpy0dg</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>3dd7d584-02dd-443a-ac99-d5078d9d444d_hctj9ptqpy0dg!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>3dd7d584-02dd-443a-ac99-d5078d9d444d</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=dea39_000</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\dea39_000\documents\visual studio 2013\Projects\ModoDaltonico\ModoDaltonico\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-11T02:16:10.172</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\dea39_000\documents\visual studio 2013\Projects\ModoDaltonico\ModoDaltonico\bin\x86\Debug\ModoDaltonico.exe">
+      <PackagePath>ModoDaltonico.exe</PackagePath>
+      <Modified>2015-03-11T02:16:09.250</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\dea39_000\documents\visual studio 2013\Projects\ModoDaltonico\ModoDaltonico\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T11:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\dea39_000\documents\visual studio 2013\Projects\ModoDaltonico\ModoDaltonico\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T11:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\dea39_000\documents\visual studio 2013\Projects\ModoDaltonico\ModoDaltonico\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T11:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\dea39_000\documents\visual studio 2013\Projects\ModoDaltonico\ModoDaltonico\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T11:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\dea39_000\documents\visual studio 2013\Projects\ModoDaltonico\ModoDaltonico\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-03-11T02:16:09.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\dea39_000\documents\visual studio 2013\Projects\ModoDaltonico\ModoDaltonico\bin\x86\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-03-11T02:16:09.016</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\dea39_000\documents\visual studio 2013\Projects\ModoDaltonico\ModoDaltonico\bin\x86\Debug\ModoDaltonico.xr.xml">
+      <PackagePath>ModoDaltonico.xr.xml</PackagePath>
+      <Modified>2015-03-11T02:16:08.422</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\dea39_000\documents\visual studio 2013\Projects\ModoDaltonico\ModoDaltonico\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-03-11T02:16:09.579</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\WindowsPreview.Kinect\2.0\">
+      <Name>Microsoft.WindowsPreview.Kinect.8.1</Name>
+      <Version>2.0.1410.19000</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.WindowsPreview.Kinect.8.1, MinVersion = 2.0.1410.19000</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\WindowsPreview.Kinect\2.0\.\AppX\Debug\x64\WindowsPreview.Kinect_2.0_x64.appx</AppxLocation>
+      <MoreInfo>http://www.kinectforwindows.com</MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\WindowsPreview.Kinect\2.0\">
+      <Name>Microsoft.WindowsPreview.Kinect.8.1</Name>
+      <Version>2.0.1410.19000</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.WindowsPreview.Kinect.8.1, MinVersion = 2.0.1410.19000</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\WindowsPreview.Kinect\2.0\.\AppX\Debug\x86\WindowsPreview.Kinect_2.0_Win32.appx</AppxLocation>
+      <MoreInfo>http://www.kinectforwindows.com</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

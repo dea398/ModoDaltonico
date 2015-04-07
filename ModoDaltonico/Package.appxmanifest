@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest">
+  <Identity Name="3dd7d584-02dd-443a-ac99-d5078d9d444d" Publisher="CN=dea39_000" Version="1.0.0.0" />
+  <Properties>
+    <DisplayName>ModoDaltonico</DisplayName>
+    <PublisherDisplayName>dea39_000</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.3.0</OSMinVersion>
+    <OSMaxVersionTested>6.3.0</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="ModoDaltonico.App">
+      <m2:VisualElements DisplayName="ModoDaltonico" Square150x150Logo="Assets\Logo.png" Square30x30Logo="Assets\SmallLogo.png" Description="ModoDaltonico" ForegroundText="light" BackgroundColor="#464646">
+        <m2:SplashScreen Image="Assets\SplashScreen.png" />
+      </m2:VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+    <DeviceCapability Name="microphone" />
+    <DeviceCapability Name="webcam" />
+  </Capabilities>
+</Package>
